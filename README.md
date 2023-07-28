@@ -1,37 +1,8 @@
 # kspack-go
+[![Go Reference](https://pkg.go.dev/badge/github.com/kubeservice-stack/kspack-go.svg)](https://pkg.go.dev/github.com/kubeservice-stack/kspack-go) [![Build Status](https://github.com/kubeservice-stack/kspack-go/actions/workflows/go.yml/badge.svg)](https://github.com/kubeservice-stack/kspack-go/actions/workflows/go.yml) [![Language](https://img.shields.io/badge/Language-Go-blue.svg)](h[ttps://golang.org/](https://github.com/kubeservice-stack/kspack-go)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fc6494d8787249c59620ef1cd424559d)](https://app.codacy.com/gh/kubeservice-stack/kspack-go/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Go Report Card](https://goreportcard.com/badge/github.com/kubeservice-stack/kspack-go)](https://goreportcard.com/report/github.com/kubeservice-stack/kspack-go) [![Github release](https://img.shields.io/github/v/release/kubeservice-stack/kspack-go.svg)](https://github.com/kubeservice-stack/kspack-go/releases) [![codecov](https://codecov.io/github/kubeservice-stack/kspack-go/branch/master/graph/badge.svg?token=7w9Vii7e92)](https://codecov.io/github/kubeservice-stack/kspack-go) [![Apache-2.0 license status](https://img.shields.io/github/license/kubeservice-stack/kspack-go)](https://github.com/kubeservice-stack/kspack-go/blob/master/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/kubeservice-stack/kspack-go)](https://github.com/kubeservice-stack/kspack-go) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubeservice-stack%2Fkspack-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubeservice-stack%2Fkspack-go?ref=badge_shield) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/avelino/awesome-go#uncategorized)
 
-#### 介绍
-The components for structure data encode and decode with GOLANG
-
-#### 软件架构
-软件架构说明
+kspack is the components for structure data encode and decode with high performance and scalability.
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## LICENSE
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubeservice-stack%2Fkspack-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubeservice-stack%2Fkspack-go?ref=badge_large)
